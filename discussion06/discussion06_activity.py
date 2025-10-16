@@ -13,6 +13,7 @@ if __name__ == '__main__':
 		print(num1, '/', num2, '=', num1/num2)
 		### FIXME write the inputs/outputs and any errors encountered
 		### to a log file
+        jhkhsjkkhkjhjkhcjkh
 
 		### FIXME is this the best way to do this?
 		### Should we be checking inputs?
